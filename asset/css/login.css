@@ -1,0 +1,64 @@
+section{
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+    text-align: center;
+    font-family: Britannic;
+
+}
+body{ margin: 0px;}
+
+h1{
+    color: aliceblue;
+    margin-left: -73px;
+    font-size: 30px;
+    font-weight: bold;
+}
+    #name{
+        color: grey;
+        width: 317px;
+        padding: 4px;
+        height: 39px;
+        margin-left: 36px;
+        background-color: black;
+        box-shadow: none;
+        text-shadow: none;
+        border: solid 1px #9e9e9ead;
+        border-radius: 4px;
+    
+
+    }
+     #name:focus {
+        box-shadow: 1px 0px 5px 0px blue;
+        outline: none;
+        border-color: blue;
+      }
+    
+
+
+
+    button{
+        background-color: #2196f3d9;
+    border: none;
+    border-radius: 50px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 56px;
+    overflow: hidden;
+    text-shadow: none;
+    margin-left: 43px;
+    width: 339px;
+    margin-top: 31px;
+    cursor: pointer;
+            
+        }
+
+        span{color: #2196f3d9;
+            font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+            margin-left: 30px;
+            font-size: 15px;
+
+        }
+        a{cursor: pointer;}
